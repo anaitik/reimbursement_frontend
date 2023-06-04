@@ -49,9 +49,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).![Scre
 ![Screenshot (185)](https://github.com/anaitik/reimbursement_frontend/assets/61739812/da7dd85e-6a43-44e2-b629-2595e6a83880)
 ![Screenshot (187)](https://github.com/anaitik/reimbursement_frontend/assets/61739812/4a138d74-df7e-48fd-b98b-cfc9109292ae)
 
+![Screenshot (186)](https://github.com/anaitik/reimbursement_frontend/assets/61739812/2276627b-c11d-4094-9b29-b2bbdeb7ccd5)
+![Screenshot (188)](https://github.com/anaitik/reimbursement_frontend/assets/61739812/e226978d-2b41-4a79-9ed8-502d11882cf0)
+![Screenshot (190)](https://github.com/anaitik/reimbursement_frontend/assets/61739812/4d136bf0-d02e-4693-a4c2-630dc369cdee)
+
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-a![Uploading Screenshot (190).png…]()
+pp/docs/code-splitting)
 
 ### Analyzing the Bundle Size
 
